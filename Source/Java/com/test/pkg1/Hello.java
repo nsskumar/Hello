@@ -2,6 +2,7 @@ package com.test.pkg1;
 /*
  * comment
  * br1 v1
+ * updated master
  */
 public class Hello {
 
