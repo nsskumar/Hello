@@ -1,5 +1,7 @@
 package com.test.pkg1;
-
+/*
+ * comment
+ */
 public class Hello {
 
 	/**
