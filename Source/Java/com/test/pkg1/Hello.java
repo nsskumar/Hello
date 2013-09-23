@@ -14,6 +14,7 @@ public class Hello {
 		System.out.println("Hello!");
 		
 		System.out.println("Hello1-branch1!");
+		System.out.println("Hello2-branch1!");
 		
 		System.out.println("Hello1-master!");
 		System.out.println("Hello1 - updated at remote!");
