@@ -20,6 +20,7 @@ public class Hello {
 		System.out.println("Hello - branch1!");
 		System.out.println("Hello1 - branch1!");
 		System.out.println("Hello2 - branch1!");
+		System.out.println("Hello3 - branch1!");
 	}
 
 }
