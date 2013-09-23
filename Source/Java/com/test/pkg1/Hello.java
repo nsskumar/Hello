@@ -13,8 +13,12 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello!");
 		System.out.println("Hello - master!");
-		System.out.println("Hello1 - brancg!");
-		System.out.println("Hello2 - branch1!");
+		System.out.println("Hello1 - master!");
+		System.out.println("Hello2 - master!");
+		System.out.println("Hello3 - master!");
+
+		System.out.println("Hello - branch1!");
+		System.out.println("Hello1 - branch1!");
 	}
 
 }
