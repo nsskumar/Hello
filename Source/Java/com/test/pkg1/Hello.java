@@ -14,6 +14,7 @@ public class Hello {
 		System.out.println("Hello!");
 		System.out.println("Hello - master!");
 		System.out.println("Hello1 - master!");
+		System.out.println("Hello2 - master!");
 	}
 
 }
